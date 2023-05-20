@@ -22,8 +22,8 @@ The following schedule is subject to change based on the speed at which we get t
 || [File I/O](https://colab.research.google.com/drive/1wroJjXEjz6Igm5xk_u-hDG-Fr9mmehfR?usp=sharing)
 || [Unicode and Strings](https://colab.research.google.com/drive/1vBunMtioF9ACmkrtOdxM7HdkaPxOOPYV?usp=sharing) |
 |Week of 9/4, Class 2| [Python Sequences, Dictionaries, and Sets](https://colab.research.google.com/drive/1-fAR35RBBt8yCaAiIfoH0PBiVA_d6QZJ?usp=sharing)||
-|Week of 9/10, Class 1|[Functions and Functions as Arguments; Lambdas](https://colab.research.google.com/drive/1VuCIoucvn52PDyOv3Mw9eSMvug-weJ_s?usp=sharing)||
-|Th 2/2|[Decorators](https://colab.research.google.com/drive/1va3y4T4GJSdr0WGc75JrC8I5DXZxoE_v?usp=sharing)
+|Week of 9/11, Class 1|[Functions and Functions as Arguments; Lambdas](https://colab.research.google.com/drive/1VuCIoucvn52PDyOv3Mw9eSMvug-weJ_s?usp=sharing)||
+|Week of 9/11, Class 2|[Decorators](https://colab.research.google.com/drive/1va3y4T4GJSdr0WGc75JrC8I5DXZxoE_v?usp=sharing)
 || [Named Tuples and Classes](https://colab.research.google.com/drive/1JXXwtpzjj5SlK7wqQMe36cSGTtbv8_19?usp=sharing)||
 |Tu 2/7|[Classes and Dunder/Magic Methods](https://colab.research.google.com/drive/1s8XIeUXxQhqs89-mz4ip33rEAlv24HwO?usp=sharing)||
 |Th 2/9|[Iterators and Comprehensions](https://colab.research.google.com/drive/1z-POEdOSwEgyksaEdV2_BZZuYnozTHg1?usp=sharing)||
