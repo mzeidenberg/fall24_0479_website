@@ -16,13 +16,13 @@ The following schedule is subject to change based on the speed at which we get t
 
 |Class       |Topics                                               |Reading/Resourses|
 |------------|-----------------------------------------------------|-----------------|
-|Tu 1/24|Course Overview |Python for Data Analysis, Chapters 1 and 2; Data Science from Scratch, Chapter 2| 
+|Week of 9/4, Class 1|Course Overview |Python for Data Analysis, Chapters 1 and 2; Data Science from Scratch, Chapter 2| 
 || [Languages for data analysis & discussion of Python tooling](https://colab.research.google.com/drive/1P48h1PqcssBn-jesuOmNSTKpg-ETBQyh?usp=sharing)|
 || [Python Fundamentals](https://colab.research.google.com/drive/1iIKM7_OOQ08l9BBGs0JPf6SBOcRRLXoV?usp=sharing)|
 || [File I/O](https://colab.research.google.com/drive/1wroJjXEjz6Igm5xk_u-hDG-Fr9mmehfR?usp=sharing)
 || [Unicode and Strings](https://colab.research.google.com/drive/1vBunMtioF9ACmkrtOdxM7HdkaPxOOPYV?usp=sharing) |
 |Th 1/26| [Python Sequences, Dictionaries, and Sets](https://colab.research.google.com/drive/1-fAR35RBBt8yCaAiIfoH0PBiVA_d6QZJ?usp=sharing)||
-|Tu 1/31|[Functions and Functions as Arguments; Lambdas](https://colab.research.google.com/drive/1VuCIoucvn52PDyOv3Mw9eSMvug-weJ_s?usp=sharing)||
+|Week of 9/4, Class 2|[Functions and Functions as Arguments; Lambdas](https://colab.research.google.com/drive/1VuCIoucvn52PDyOv3Mw9eSMvug-weJ_s?usp=sharing)||
 |Th 2/2|[Decorators](https://colab.research.google.com/drive/1va3y4T4GJSdr0WGc75JrC8I5DXZxoE_v?usp=sharing)
 || [Named Tuples and Classes](https://colab.research.google.com/drive/1JXXwtpzjj5SlK7wqQMe36cSGTtbv8_19?usp=sharing)||
 |Tu 2/7|[Classes and Dunder/Magic Methods](https://colab.research.google.com/drive/1s8XIeUXxQhqs89-mz4ip33rEAlv24HwO?usp=sharing)||
