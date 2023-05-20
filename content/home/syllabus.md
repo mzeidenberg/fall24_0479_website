@@ -13,20 +13,19 @@ columns: '1'
 All of the Zoom links below (for meetings and office hours) can be also found on Brightspace.
 
 - Section 2: Tuesdays and Thursdays 11 AM to 12:15 PM, Silver 101A
-- Zoom link: https://nyu.zoom.us/j/99181726109
-
+    - Zoom link: https://nyu.zoom.us/j/99181726109
 - Section 3: Mondays and Wednesays 3:30 PM to 4:45 PM, Silver 401
-- Zoom link: https://nyu.zoom.us/j/94678760213
+    - Zoom link: https://nyu.zoom.us/j/94678760213
 
-- Sessions will be recorded, but in-person attendence is preferred.
+Sessions will be recorded, but in-person attendence is preferred.
 
 ## Office Hours
 
 My office hours will be held on Zoom and in person this semester from 12:40-1:40 PM Tuesdays and Thursdays and
 2-3 PM Mondays and Wednesdays.  If you want to meet me in person, come to my office in 419 Warren Weaver Hall.
 
-The Zoom link for the Monday/Wednesday office hours is https://nyu.zoom.us/j/93843923104
-The Zoom link for the Tuesday/Thursday office hours is https://nyu.zoom.us/j/99120599500
+The Zoom link for the Monday/Wednesday office hours is https://nyu.zoom.us/j/93843923104   
+The Zoom link for the Tuesday/Thursday office hours is https://nyu.zoom.us/j/99120599500 
 
 Please turn your camera on if possible when you connect.
 
