@@ -104,7 +104,7 @@ You get 10 grace days for assignment due dates, to be used as you choose. For in
 
 The grace day system is designed to handle any personal situations you have, like a religious celebration, a family gathering, a short illness, a lot of work from other classes, etc.
 
-However, no assigments will be accepted after the due date of the final assignments. Grace days do not apply after that date.
+However, no assigments will be accepted after the due date of the final assignment. Grace days do not apply after that date.
 
 ## Information about Ed
 
