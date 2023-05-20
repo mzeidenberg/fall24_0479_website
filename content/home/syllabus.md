@@ -31,7 +31,7 @@ Please turn your camera on if possible when you connect.
 
 If you are unable to log on at these times and would like to talk to me, please email me for an appointment.
 
-Shubhankar, the TA, will also be holding Zoom office hours. Times and link to be announced.
+The TA,will also be holding Zoom office hours. Times and link to be announced.
 
 ## Course Description
 
@@ -79,9 +79,9 @@ The following books are all available for free online reading through the NYU li
 I plan to use the following breakdown for grading.
 
 * 5% - In-Class Participation
-* 35% - Homework
-* 30% - Midterm Exam
-* 30% - Final Exam
+* 25% - Homework
+* 35% - Midterm Exam
+* 35% - Final Exam
 
 ## In-Class Participation
 
@@ -104,10 +104,12 @@ You get 10 grace days for assignment due dates, to be used as you choose. For in
 
 The grace day system is designed to handle any personal situations you have, like a religious celebration, a family gathering, a short illness, a lot of work from other classes, etc.
 
+However, no assigments will be accepted after the due date of the final assignments. Grace days do not apply after that date.
+
 ## Information about Ed
 
 You should have been automatically signed up for the Ed discussion system. The link (also in Brightspace in the Content area)
-is https://edstem.org/us/courses/35997/discussion/
+will be provided before class starts or shortly thereafter.
 
 Ed is an online discussion forum system that is designed to make it easy to have conversations around code.  Using Ed you will be able to ask me, the course tutors or your fellow students questions about course content and homework assignments. So if you have a question about the course content that could be of interest to other students, please post your question to Ed rather than sending me or the course assistant an email. Both of us will monitor Ed and answer questions there. You can also feel free to answer questions yourself if you know the answer.
 
@@ -117,7 +119,7 @@ If you have a question for me that only concerns you (e.g. something about your 
 
 It is highly encouraged that you bring a laptop to class.
 
-I recommend installing [Anaconda](https://www.anaconda.com/) on your machine. We will be mainly using Google Colab notebooks in class which I will share with you. You can make your own copies of these notebooks and run and edit those copies online. However, you may want to run some notebooks locally on your machine. Anaconda installs JupyterLab on your machine which is what I recommend using for this. It also installs lot of other useful software.
+I recommend installing [Anaconda](https://www.anaconda.com/) on your machine. We will be mainly using Google Colab notebooks in class which I will share with you. You can make your own copies of these notebooks and run and edit those copies online using Colab. However, you may want to run some notebooks locally on your machine. Anaconda installs JupyterLab on your machine which is what I recommend using for this. It also installs lot of other useful software.
 
 ## Disability Disclosure Statement
 
