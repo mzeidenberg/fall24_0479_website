@@ -9,6 +9,8 @@ design:
 columns: '1'
 ---
 
+NOTE THIS WEBSITE IS CURRENTLY BEING UPDATED. PLEASE DO NOT RELY ON IT UNTIL THIS MESSAGE DISAPPEARS.
+
 Data Management and Analysis  
 Section 2  
 [Matt Zeidenberg](https://www.mattzeidenberg.com/)  
