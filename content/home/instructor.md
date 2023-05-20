@@ -12,7 +12,7 @@ columns: '1'
 NOTE THIS WEBSITE IS CURRENTLY BEING UPDATED. PLEASE DO NOT RELY ON IT UNTIL THIS MESSAGE DISAPPEARS.
 
 Data Management and Analysis  
-Section 2  
+Sections 2 and 3    
 [Matt Zeidenberg](https://www.mattzeidenberg.com/)  
 Clinical Associate Professor   
 [Department of Computer Science](https://cs.nyu.edu/home/index.html)   
