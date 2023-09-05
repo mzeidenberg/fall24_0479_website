@@ -22,5 +22,3 @@ Cell: 718-304-7609
 Fax: 212-995-4124   
 
 Teaching Assistants: Lesley Zhao (tz2074@nyu.edu) and Jiayi Zhao (jz3901@nyu.edu)
-
-Office hours to be announced.
