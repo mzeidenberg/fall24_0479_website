@@ -27,11 +27,11 @@ The following schedule is subject to change based on the speed at which we get t
 || [Named Tuples and Classes](https://colab.research.google.com/drive/1JXXwtpzjj5SlK7wqQMe36cSGTtbv8_19?usp=sharing)||
 |Week of 9/18, Class 1|[Classes and Dunder/Magic Methods](https://colab.research.google.com/drive/1s8XIeUXxQhqs89-mz4ip33rEAlv24HwO?usp=sharing)||
 |Week of 9/18, Class 2|[Iterators and Comprehensions](https://colab.research.google.com/drive/1z-POEdOSwEgyksaEdV2_BZZuYnozTHg1?usp=sharing)||
+||[Generators](https://colab.research.google.com/drive/17gQ2EnhPG2lDQ0aM4bfZ6SlM-p69QFpM?usp=sharing) ||
 ||[Extracting Data from a CSV file](https://colab.research.google.com/drive/1emXKArdiIiPteTqLAWqQOhHxhOQgbLeN?usp=sharing)||
 ||[Descriptive Statistics](https://colab.research.google.com/drive/11RtKDjfOqnXRD-g4dapps5co1Yypy4BJ?usp=sharing)||
 || [Central Tendency and Dispersion](https://colab.research.google.com/drive/1SukU0JFlqnxDFG8mywrsWBWJLBDKs-AR?usp=sharing)||
 |Week of 9/25, Class 1| [Covariance and Correlation](https://colab.research.google.com/drive/1e9a-yMsT0cvVbaG9auRtaon0bSv1MOKD?usp=sharing)|| 
-||[Generators](https://colab.research.google.com/drive/17gQ2EnhPG2lDQ0aM4bfZ6SlM-p69QFpM?usp=sharing) ||
 |Week of 9/25, Class 2|[Numpy Basics](https://colab.research.google.com/drive/1skb9XyP1Qy7ymuMxtGGxSa64b5xZIdDS?usp=sharing)||
 |Week of 10/2, Class 1| [Plotting and Visualization](https://colab.research.google.com/drive/1E9UJUfPO1Ww38zoF7ZgWUFYaGtNfpU4d?usp=sharing)||
 |Week of 10/2, Class 2| [Text File Formats](https://colab.research.google.com/drive/1vtq7K5UdBWxmG4nN1fQ5IQLfHP2pHSbK?usp=sharing)||
