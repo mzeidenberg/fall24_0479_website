@@ -8,9 +8,6 @@ weight: 1  # section position on page
 design:
 columns: '1'
 ---
-
-NOTE THIS WEBSITE IS CURRENTLY BEING UPDATED. PLEASE DO NOT RELY ON IT UNTIL THIS MESSAGE DISAPPEARS.
-
 Data Management and Analysis  
 Sections 2 and 3    
 [Matt Zeidenberg](https://www.mattzeidenberg.com/)  
@@ -24,4 +21,4 @@ email: mz3332@nyu.edu
 Cell: 718-304-7609   
 Fax: 212-995-4124   
 
-Teaching Assistant: To be announced
+Teaching Assistants: Lesley Zhao (tz2074@nyu.edu) and Jiayi Zhao (jz3901@nyu.edu)

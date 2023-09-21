@@ -31,7 +31,7 @@ Please turn your camera on if possible when you connect.
 
 If you are unable to log on at these times and would like to talk to me, please email me for an appointment.
 
-The TA,will also be holding Zoom office hours. Times and link to be announced.
+The TAs will also be holding Zoom office hours. Times and link to be announced.
 
 ## Course Description
 
