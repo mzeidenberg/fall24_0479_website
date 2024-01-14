@@ -103,10 +103,10 @@ However, no assigments will be accepted after the due date of the final assignme
 
 ## Quizzes and Exam
 
-Starting in week 2, there will be weekly in-person, in-class quizzes that will take up the 20 minutes at the end of the second class of the week. These will be implemented using Brightspace, the Respondus Lockdown Broswer, and Ed Lessons. You may not take these quizzes remotely. Each quiz will focus on the most recent material covered in class, typically from the week before, although
+Starting in week 2, there will be weekly in-person, in-class quizzes that will take up the 20 minutes at the end of the second class of the week. These will be implemented using Brightspace, the Respondus Lockdown Broswer, and Ed Lessons. You may not take these quizzes remotely. Each quiz will focus on the most recent material covered in class, typically from the week before, although there may be some reference to earlier material as well; for instance the early Python programming is used throughout.
 
 You may bring five printed or handwritten pages of notes to each quiz. You may not use any other devices other
-than the computer that the Lockdown Browser is running on,
+than the computer that the Lockdown Browser is running on.
 
 There will be 13 quizzes. Each will be worth the same amount.  I will drop the three lowest scores. So you can choose to skip up to three if you like, although I don't recommend it. However, if you skip one, it will be included in the three that are dropped. There will be no makeup quizzes except in extraordinary circumstances.
 
