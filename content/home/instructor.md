@@ -19,6 +19,5 @@ Warren Weaver Hall,  251 Mercer Street, Room 419
 New York, New York 10012   
 email: mz3332@nyu.edu   
 Cell: 718-304-7609   
-Fax: 212-995-4124   
 
-Teaching Assistants: Lesley Zhao (tz2074@nyu.edu) and Jiayi Zhao (jz3901@nyu.edu)
+Teaching Assistants: Peiqi Tan (pt2114@nyu.edu) and Jiayi Zhao (jz3901@nyu.edu), others to be announced

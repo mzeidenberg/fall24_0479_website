@@ -12,20 +12,20 @@ columns: '1'
 
 All of the Zoom links below (for meetings and office hours) can be also found on Brightspace.
 
-- Section 2: Tuesdays and Thursdays 11 AM to 12:15 PM, Silver 101A
-    - Zoom link: https://nyu.zoom.us/j/99181726109
+- Section 2: Tuesdays and Thursdays 11 AM to 12:15 PM, 60 Fifth Ave. Room 150
+    - Zoom link: https://nyu.zoom.us/j/99070920767
 - Section 3: Mondays and Wednesays 3:30 PM to 4:45 PM, Silver 401
-    - Zoom link: https://nyu.zoom.us/j/94678760213
+    - Zoom link: https://nyu.zoom.us/j/96185987360
 
-Sessions will be recorded, but in-person attendence is preferred.
+Sessions will be recorded, but in-person attendence is preferred (and required for quiz days).
 
 ## Office Hours
 
-My office hours will be held on Zoom and in person this semester from 12:40-1:40 PM Tuesdays and Thursdays and
-2-3 PM Mondays and Wednesdays.  If you want to meet me in person, come to my office in 419 Warren Weaver Hall.
+My office hours will be held on Zoom and in person this semester from 2-3 PM on Mondays and Wednesday and 1-2 PM on Tuesdays and Thursdays. If you want to meet me in person, come to my office in 419 Warren Weaver Hall.
 
-The Zoom link for the Monday/Wednesday office hours is https://nyu.zoom.us/j/93843923104   
-The Zoom link for the Tuesday/Thursday office hours is https://nyu.zoom.us/j/99120599500 
+The Zoom link for the Monday/Wednesday office hours is https://nyu.zoom.us/j/96008978407
+
+The Zoom link for the Tuesday/Thursday office hours is https://nyu.zoom.us/j/97001848791
 
 Please turn your camera on if possible when you connect.
 
@@ -78,23 +78,18 @@ The following books are all available for free online reading through the NYU li
 
 I plan to use the following breakdown for grading.
 
-* 5% - In-Class Participation
+* 5% - In-Class Exercises
 * 25% - Homework
-* 35% - Midterm Exam
-* 35% - Final Exam
+* 50% - Weekly Quizzes
+* 20% - Final Exam
 
-## In-Class Participation
+## In-Class Exercises
 
-I will be posting problems on Ed (see below) to be done during class.
+I will be posting exercises on Ed (see below) to be done during class.
 
-You don't need to get these problems right, but you do need to try to do them, that is, post some answer, in order to get credit for class participation.
+You don't need to get these exercise right, but you do need to try to do them, that is, post some answer, in order to get credit for them.
 
-Credit will only be given for answers posted during class time. And if
-you post some answer to 75% of the problems I post, you will get full
-credit for participation.
-
-This is for two purposes: to make the class more interactive, and to
-encourage attendance.
+If you post some answer to 75% of the problems I post, you will get full credit for them.
 
 ## Homework
 
@@ -106,20 +101,32 @@ The grace day system is designed to handle any personal situations you have, lik
 
 However, no assigments will be accepted after the due date of the final assignment. Grace days do not apply after that date.
 
+## Quizzes and Exam
+
+Starting in week 2, there will be weekly in-person, in-class quizzes that will take up the 20 minutes at the end of the second class of the week. These will be implemented using Brightspace, the Respondus Lockdown Broswer, and Ed Lassons. You may not take these quizzes remotely. Each quiz will focus on the most recent material covered in class, typically from the week before, although
+
+You may bring five printed or handwritten pages of notes to each quiz. You may not use any other devices other
+than the computer that the Lockdown Browser is running on,
+
+There will be 13 quizzes. Each will be worth the same amount.  I will drop the three lowest scores. So you can choose to skip up to three if you like, although I don't recommend it. However, if you skip one, it will be included in the three that are dropped. There will be no makeup quizzes except in extraordinary circumstances.
+
+The final will be similar to the quizzes, but longer, and employing the same technologies. Like the quizzes,
+it must be taken in person.
+
 ## Information about Ed
 
-You should have been automatically signed up for the Ed discussion system. The link (also in Brightspace in the Content area)
-will be provided before class starts or shortly thereafter.
+Ed is an online system that will be available via Brightspace. It has discussion and lessons features that 
+we will be using. It is linked from Brightspace.
 
-Ed is an online discussion forum system that is designed to make it easy to have conversations around code.  Using Ed you will be able to ask me, the course tutors or your fellow students questions about course content and homework assignments. So if you have a question about the course content that could be of interest to other students, please post your question to Ed rather than sending me or the course assistant an email. Both of us will monitor Ed and answer questions there. You can also feel free to answer questions yourself if you know the answer.
-
-If you have a question for me that only concerns you (e.g. something about your grades), then feel free to send me an email. Please do not hesitate to get in touch with me via email or during office hours if you feel as though you are falling behind or you are not understanding a particular concept.
+The assignments, quizzes, and final will all be implemented in Ed. The lecture slides will also appear there.
 
 ## Personal Computers and Software
 
 It is highly encouraged that you bring a laptop to class.
 
-I recommend installing [Anaconda](https://www.anaconda.com/) on your machine. We will be mainly using Google Colab notebooks in class which I will share with you. You can make your own copies of these notebooks and run and edit those copies online using Colab. However, you may want to run some notebooks locally on your machine. Anaconda installs JupyterLab on your machine which is what I recommend using for this. It also installs lot of other useful software.
+I recommend installing [Anaconda](https://www.anaconda.com/) on your machine. It installs a lot of useful
+software for Python-based data analysis and data science. I also recommend downloading and installing DataGrip and DB Browser for SQLite. The latter is freeware and the former is free to students. The IDE I use is
+Visual Studio Code (VS Code), but there are a lot of other good ones out there. I also use Google Colab and JupyterLab for editing Jupyter Notebooks. I also sometimes use Spyder, which is good for browsing Pandas dataframes and other Python objects. Anaconda installs JupyterLab, Spyder, and VS Code, among other things.
 
 ## Disability Disclosure Statement
 
