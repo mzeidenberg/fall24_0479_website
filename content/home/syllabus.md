@@ -93,7 +93,7 @@ If you post some answer to 75% of the problems I post, you will get full credit 
 
 ## Homework
 
-There will be 5 to 6 assignments.
+There will be at least five assignments.
 
 You get 10 grace days for assignment due dates, to be used as you choose. For instance, if you turn the first assignment in 2 days late, you will have 8 days left. The graders will track this for you. After you exhaust your late days, you lose 10% for each day late.
 
