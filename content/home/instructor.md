@@ -20,4 +20,4 @@ New York, New York 10012
 email: mz3332@nyu.edu   
 Cell: 718-304-7609   
 
-Teaching Assistants: Peiqi Tan (pt2114@nyu.edu) and Jiayi Zhao (jz3901@nyu.edu), others to be announced
+Teaching Assistants: To be announced
