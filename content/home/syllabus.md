@@ -21,7 +21,7 @@ Sessions will be recorded, but in-person attendence is preferred (and required f
 
 ## Office Hours
 
-My office hours will be held on Zoom and in person this semester from 2-3 PM on Mondays and Wednesday and 12:45-1:45 PM on Tuesdays and Thursdays. If you want to meet me in person, come to my office in 419 Warren Weaver Hall.
+My office hours will be held on Zoom and in person this semester from 2-3 PM on Mondays and Wednesdays and 12:45-1:45 PM on Tuesdays and Thursdays. If you want to meet me in person, come to my office in 419 Warren Weaver Hall.
 
 The Zoom link for the Monday/Wednesday office hours is https://nyu.zoom.us/j/95768462807
 
